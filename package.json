@@ -1,0 +1,12 @@
+{
+  "name": "aoc2020d11-seatingsystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js example.txt",
+    "start": "node index.js input.txt"
+  },
+  "author": "",
+  "license": "ISC"
+}
